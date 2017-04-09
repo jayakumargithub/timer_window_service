@@ -1,0 +1,9 @@
+C:\Project\WindowsService\TimerWindowService\TimerWindowService\bin\Debug\TimerWindowService.exe.config
+C:\Project\WindowsService\TimerWindowService\TimerWindowService\bin\Debug\TimerWindowService.exe
+C:\Project\WindowsService\TimerWindowService\TimerWindowService\bin\Debug\TimerWindowService.pdb
+C:\Project\WindowsService\TimerWindowService\TimerWindowService\obj\Debug\TimerWindowService.csprojResolveAssemblyReference.cache
+C:\Project\WindowsService\TimerWindowService\TimerWindowService\obj\Debug\TimerWindowService.ProjectInstaller.resources
+C:\Project\WindowsService\TimerWindowService\TimerWindowService\obj\Debug\TimerWindowService.TimerSrv.resources
+C:\Project\WindowsService\TimerWindowService\TimerWindowService\obj\Debug\TimerWindowService.csproj.GenerateResource.Cache
+C:\Project\WindowsService\TimerWindowService\TimerWindowService\obj\Debug\TimerWindowService.exe
+C:\Project\WindowsService\TimerWindowService\TimerWindowService\obj\Debug\TimerWindowService.pdb
